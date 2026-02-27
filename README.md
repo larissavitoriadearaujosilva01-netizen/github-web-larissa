@@ -24,3 +24,4 @@ _**atividade**_
 - [ ] caderno
 - [x] lapis
 - [ ] estojo
+! [CursoemVideo] (papagaio-arara-voador-isolado-em-fundo-transparente-png-psd_888962-1748)
