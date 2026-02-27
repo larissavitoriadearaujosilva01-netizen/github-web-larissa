@@ -1,21 +1,21 @@
 # github-web-larissa
 atividade pratica github web
-italico
+# italico
 _atividade_
 *atividade*
-negrito
+# negrito
 __atividade__
 **atividade**
 riscado
 ~~atividade~~
-misturar
+# misturar
 _**atividade**_
 # listas numeradas
 1. um
 2. dois
 3. tres
 4. quatro 
-listas com marcadores
+# listas com marcadores
 * um
 * dois
   * tres
