@@ -1,4 +1,4 @@
-# github-web-larissa
+# github-web-larissa :clap:
 atividade pratica github web
 # italico
 _atividade_
@@ -11,9 +11,9 @@ riscado
 # misturar
 _**atividade**_
 # listas numeradas
-1. um
-2. dois
-3. tres
+1. um 🥇
+2. dois 🥈
+3. tres 🥉
 4. quatro 
 # listas com marcadores
 * um
